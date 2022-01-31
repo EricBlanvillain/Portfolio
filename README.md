@@ -1,6 +1,6 @@
 # open_classrooms presentations list :
 
-A list of all my presentations made during my online degree at openclassrooms x centralsupelec master in data science (from October 2021 to February 2022)  
+A list of all my presentations made during my online degree at Openclassrooms x CentraleSupélec master in data science (from October 2021 to February 2022)  
 
 # Here are the list of the 8 projects:   
 
